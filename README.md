@@ -22,7 +22,7 @@ A file called [log.txt](https://github.com/Amjuks/My-CS50-Project/blob/master/lo
 
 ## Youtube
 
-### https://youtu.be/19_u2v3y2vk
+<iframe width="560" height="315" src="https://www.youtube.com/embed/19_u2v3y2vk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Tech
 ### Python
